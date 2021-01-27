@@ -1,2 +1,0 @@
-# ciklum-tech-task
- 
